@@ -1,0 +1,11 @@
+fastapi
+numpy
+scikit-learn
+skl2onnx
+requests
+pydantic
+uvicorn
+pandas
+onnx
+onnxconverter-common
+onnxruntime
